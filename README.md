@@ -10,14 +10,13 @@ I've been a Communications Officer and Project Manager in NGO environments for 6
 </div>
 
 ###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=izzytoot&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
+
 ## 42 Projects
-<div align="center">
 | Project | Status   | Language | Score       |
 | ---- | :--: | :--: | :--: |
 | [Piscine](https://github.com/izzytoot/42piscine) | Completed | C & Shell       | :swimmer::white_check_mark: :swimmer: :white_check_mark: |
@@ -28,7 +27,6 @@ I've been a Communications Officer and Project Manager in NGO environments for 6
 | [push_Swap](https://github.com/izzytoot/push_swap) | In Progress... | C       | :thought_balloon: / :question: |
 | [pipex](https://github.com/izzytoot/pipex) | In Progress... | C       | To be done | :soon: / :question: |
 | [solong](https://github.com/izzytoot/solong) | In Progress... | C       | To be done | :soon: / :question: |
-</div>
 
 <div align="center">
 <img align="center" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNoMml2bXFidmc2OTk3cDAxb3Y2eWV5cW53MGhqbjJlaHpiMjQ5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aMipyIAtahg21LoFwU/giphy.gif"  />
