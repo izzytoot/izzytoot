@@ -15,9 +15,11 @@ I've been a Communications Officer and Project Manager in NGO environments for 6
 </div>
 
 ###
+<div align="center">
 
 ## 42 Projects
-| Project | Status   | Language | Score       |
+
+| Project | Status   | Language | Score |
 | ---- | :--: | :--: | :--: |
 | [Piscine](https://github.com/izzytoot/42piscine) | Completed | C & Shell       | :swimmer::white_check_mark: :swimmer: :white_check_mark: |
 | [libft](https://github.com/izzytoot/libft_project) | Completed | C        | 100 / 100  :white_check_mark: |
@@ -27,10 +29,25 @@ I've been a Communications Officer and Project Manager in NGO environments for 6
 | [push_Swap](https://github.com/izzytoot/push_swap) | In Progress... | C       | :thought_balloon: / :question: |
 | [pipex](https://github.com/izzytoot/pipex) | In Progress... | C       | To be done | :soon: / :question: |
 | [solong](https://github.com/izzytoot/solong) | In Progress... | C       | To be done | :soon: / :question: |
+| ... | ... | ... | ... | ... |
 
+
+## 42 Exams
+
+| Exam | Status   | Language | Score       |
+| ---- | :--: | :--: | :--: |
+| [Exam 02](https://github.com/izzytoot/exams42/tree/main/Rank_2) | Completed | C        | 100/100 :white_check_mark: |
+| ... | ... | ... | ... |
+
+</div>
+
+<p>
 <div align="center">
 <img align="center" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNoMml2bXFidmc2OTk3cDAxb3Y2eWV5cW53MGhqbjJlaHpiMjQ5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aMipyIAtahg21LoFwU/giphy.gif"  />
+  
+</p>
 </div>
+
 
 ###
 
