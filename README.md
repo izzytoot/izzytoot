@@ -27,8 +27,8 @@ I've been a Communications Officer and Project Manager in NGO environments for 6
 | [born2beroot](https://github.com/izzytoot/Born2beroot) | Completed | Shell       | 100 / 100 :white_check_mark: |
 | [get_next_line](https://github.com/izzytoot/get_next_line) | Completed | C        | 125 / 100 :white_check_mark: |
 | [push_Swap](https://github.com/izzytoot/push_swap) | In Progress... | C       | :thought_balloon: / :question: |
-| [pipex](https://github.com/izzytoot/pipex) | In Progress... | C       | To be done | :soon: / :question: |
 | [solong](https://github.com/izzytoot/solong) | In Progress... | C       | To be done | :soon: / :question: |
+| [pipex](https://github.com/izzytoot/pipex) | In Progress... | C       | To be done | :soon: / :question: |
 | ... | ... | ... | ... | ... |
 
 
