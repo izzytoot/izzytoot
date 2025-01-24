@@ -11,13 +11,15 @@ I've been a Communications Officer and Project Manager in NGO environments for 6
 
 ###
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=izzytoot&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+
+## My journey at 42 Porto
 
 ###
-<div align="center">
+<p align="middle">
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/icunha-t" alt="icunha-t's 42 stats" /></a>
+</p>
 
-## 42 Projects
+## Projects
 
 | Project | Status   | Language | Score |
 | ---- | :--: | :--: | :--: |
@@ -28,15 +30,16 @@ I've been a Communications Officer and Project Manager in NGO environments for 6
 | [get_next_line](https://github.com/izzytoot/get_next_line) | Completed | C        | 125 / 100 :white_check_mark: |
 | [push_swap](https://github.com/izzytoot/push_swap) | Completed | C       | 100 / 100 :white_check_mark: |
 | [so_long](https://github.com/izzytoot/so_long) | Completed... | C       | 102 / 100 :white_check_mark: |
-| [minitalk](https://github.com/izzytoot/minitalk) | In Progress... | C       | To be done | :soon: / :question: |
+| [minitalk](https://github.com/izzytoot/minitalk) | In Progress... | C       |  In Progress... | :soon: / :question: |
 | ... | ... | ... | ... | ... |
 
 
-## 42 Exams
+## Exams
 
 | Exam | Status   | Language | Score       |
 | ---- | :--: | :--: | :--: |
-| [Exam 02](https://github.com/izzytoot/exams42/tree/main/Rank_2) | Completed | C        | 100/100 :white_check_mark: |
+| [Exam Rank 2](https://github.com/izzytoot/exams42/tree/main/Rank_2) | Completed | C        | 100/100 :white_check_mark: |
+| [Exam Rank 3](https://github.com/izzytoot/exams42/) | To be done | C        | :soon: / :question: |
 | ... | ... | ... | ... |
 
 </div>
