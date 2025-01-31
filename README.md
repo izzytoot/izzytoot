@@ -29,8 +29,9 @@ I've been a Communications Officer and Project Manager in NGO environments for 6
 | [born2beroot](https://github.com/izzytoot/Born2beroot) | Completed | Shell       | 100 / 100 :white_check_mark: |
 | [get_next_line](https://github.com/izzytoot/get_next_line) | Completed | C        | 125 / 100 :white_check_mark: |
 | [push_swap](https://github.com/izzytoot/push_swap) | Completed | C       | 100 / 100 :white_check_mark: |
-| [so_long](https://github.com/izzytoot/so_long) | Completed... | C       | 102 / 100 :white_check_mark: |
-| [minitalk](https://github.com/izzytoot/minitalk) | In Progress... | C       |  In Progress... | :soon: / :question: |
+| [so_long](https://github.com/izzytoot/so_long) | Completed | C       | 102 / 100 :white_check_mark: |
+| [minitalk](https://github.com/izzytoot/minitalk) | Completed | C       |   125 / 100 :white_check_mark: |
+| [philosophers](https://github.com/izzytoot/philosophers.git) | In Progress... | C       |  :soon: / :question: |
 | ... | ... | ... | ... | ... |
 
 
@@ -39,7 +40,7 @@ I've been a Communications Officer and Project Manager in NGO environments for 6
 | Exam | Status   | Language | Score       |
 | ---- | :--: | :--: | :--: |
 | [Exam Rank 2](https://github.com/izzytoot/exams42/tree/main/Rank_2) | Completed | C        | 100/100 :white_check_mark: |
-| [Exam Rank 3](https://github.com/izzytoot/exams42/) | To be done | C        | :soon: / :question: |
+| [Exam Rank 3](https://github.com/izzytoot/exams42/tree/main/Rank_3) | To be done | C        | :soon: / :question: |
 | ... | ... | ... | ... |
 
 </div>
