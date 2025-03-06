@@ -31,7 +31,7 @@ I've been a Communications Officer and Project Manager in NGO environments for 6
 | [push_swap](https://github.com/izzytoot/push_swap) | Completed | C       | 100 / 100 :white_check_mark: |
 | [so_long](https://github.com/izzytoot/so_long) | Completed | C       | 102 / 100 :white_check_mark: |
 | [minitalk](https://github.com/izzytoot/minitalk) | Completed | C       |   125 / 100 :white_check_mark: |
-| [philosophers](https://github.com/izzytoot/philosophers.git) | In Progress... | C       |  :soon: / :question: |
+| [philosophers](https://github.com/izzytoot/philosophers.git) | In Progress... | C       | 100 / 100 :white_check_mark: |
 | [minishell](https://github.com/izzytoot/minishell/) | In Progress... | C       |  :soon: / :question: |
 | ... | ... | ... | ... | ... |
 
