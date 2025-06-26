@@ -23,18 +23,20 @@ I've been a Communications Officer and Project Manager in NGO environments for 6
 
 | Project | Status   | Language | Score |
 | ---- | :--: | :--: | :--: |
-| [Piscine](https://github.com/izzytoot/42piscine) | Completed | C & Shell       | :swimmer::white_check_mark: :swimmer: :white_check_mark: |
-| [libft](https://github.com/izzytoot/libft_project) | Completed | C        | 100 / 100  :white_check_mark: |
-| [ft_printf](https://github.com/izzytoot/ft_printf) | Completed | C        | 100 / 100 :white_check_mark: |
-| [born2beroot](https://github.com/izzytoot/Born2beroot) | Completed | Shell       | 100 / 100 :white_check_mark: |
-| [get_next_line](https://github.com/izzytoot/get_next_line) | Completed | C        | 125 / 100 :white_check_mark: |
-| [push_swap](https://github.com/izzytoot/push_swap) | Completed | C       | 100 / 100 :white_check_mark: |
-| [so_long](https://github.com/izzytoot/so_long) | Completed | C       | 102 / 100 :white_check_mark: |
-| [minitalk](https://github.com/izzytoot/minitalk) | Completed | C       |   125 / 100 :white_check_mark: |
-| [philosophers](https://github.com/izzytoot/philosophers.git) | Completed | C       | 100 / 100 :white_check_mark: |
-| [minishell](https://github.com/izzytoot/minishell/) | Completed | C       | 98 / 100 :white_check_mark: |
-| [cub3d](https://github.com/joaorema/cub3d) | In Progress... | C       |  :soon: / :question: |
 | ... | ... | ... | ... | ... |
+| [cub3d](https://github.com/joaorema/cub3d) | In Progress... | C       |  :soon: / :question: |
+| [minishell](https://github.com/izzytoot/minishell/) | Completed | C       | 98 / 100 :white_check_mark: |
+| [philosophers](https://github.com/izzytoot/philosophers.git) | Completed | C       | 100 / 100 :white_check_mark: |
+| [minitalk](https://github.com/izzytoot/minitalk) | Completed | C       |   125 / 100 :white_check_mark: |
+| [so_long](https://github.com/izzytoot/so_long) | Completed | C       | 102 / 100 :white_check_mark: |
+| [push_swap](https://github.com/izzytoot/push_swap) | Completed | C       | 100 / 100 :white_check_mark: |
+| [get_next_line](https://github.com/izzytoot/get_next_line) | Completed | C        | 125 / 100 :white_check_mark: |
+| [born2beroot](https://github.com/izzytoot/Born2beroot) | Completed | Shell       | 100 / 100 :white_check_mark: |
+| [ft_printf](https://github.com/izzytoot/ft_printf) | Completed | C        | 100 / 100 :white_check_mark: |
+| [libft](https://github.com/izzytoot/libft_project) | Completed | C        | 100 / 100  :white_check_mark: |
+| [Piscine](https://github.com/izzytoot/42piscine) | Completed | C & Shell       | :swimmer::white_check_mark: :swimmer: :white_check_mark: |
+
+
 
 ## Exams
 
