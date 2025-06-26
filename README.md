@@ -42,9 +42,9 @@ I've been a Communications Officer and Project Manager in NGO environments for 6
 
 | Exam | Status   | Language | Score       |
 | ---- | :--: | :--: | :--: |
-| [Exam Rank 2](https://github.com/izzytoot/exams42/tree/main/Rank_2) | Completed | C        | 100/100 :white_check_mark: |
-| [Exam Rank 3](https://github.com/izzytoot/exams42/tree/main/Rank_3) | To be done | C        | 100/100 :white_check_mark: |
 | ... | ... | ... | ... |
+| [Exam Rank 3](https://github.com/izzytoot/exams42/tree/main/Rank_3) | To be done | C        | 100/100 :white_check_mark: |
+| [Exam Rank 2](https://github.com/izzytoot/exams42/tree/main/Rank_2) | Completed | C        | 100/100 :white_check_mark: |
 
 </div>
 
