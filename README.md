@@ -24,7 +24,8 @@ I've been a Communications Officer and Project Manager in NGO environments for 6
 | Project | Status   | Language | Score |
 | ---- | :--: | :--: | :--: |
 | ... | ... | ... | ... | ... |
-| [cub3d](https://github.com/izzytoot/cub3d) | In Progress... | C       |  :soon: / :question: |
+| [Netpractice](https://github.com/izzytoot/netpractice) | In Progress... | C       |  :soon: / :question: |
+| [cub3d](https://github.com/izzytoot/cub3d) | Completed | C       |  105 / 100 :white_check_mark: |
 | [minishell](https://github.com/izzytoot/minishell/) | Completed | C       | 98 / 100 :white_check_mark: |
 | [philosophers](https://github.com/izzytoot/philosophers.git) | Completed | C       | 100 / 100 :white_check_mark: |
 | [minitalk](https://github.com/izzytoot/minitalk) | Completed | C       |   125 / 100 :white_check_mark: |
