@@ -24,7 +24,8 @@ I've been a Communications Officer and Project Manager in NGO environments for 6
 | Project | Status   | Language | Score |
 | ---- | :--: | :--: | :--: |
 | ... | ... | ... | ... | ... |
-| [Netpractice](https://github.com/izzytoot/netpractice) | In Progress... | C       |  :soon: / :question: |
+| [CPP Module 00](https://github.com/izzytoot/cpp_00) | In Progress... | C++       |  :soon: / :question: |
+| [Netpractice](https://github.com/izzytoot/netpractice) | Completed | IP adress distribution    |  100 / 100 :white_check_mark: |
 | [cub3d](https://github.com/izzytoot/cub3d) | Completed | C       |  105 / 100 :white_check_mark: |
 | [minishell](https://github.com/izzytoot/minishell/) | Completed | C       | 98 / 100 :white_check_mark: |
 | [philosophers](https://github.com/izzytoot/philosophers.git) | Completed | C       | 100 / 100 :white_check_mark: |
@@ -44,9 +45,9 @@ I've been a Communications Officer and Project Manager in NGO environments for 6
 | Exam | Status   | Language | Score       |
 | ---- | :--: | :--: | :--: |
 | ... | ... | ... | ... |
-| [Exam Rank 3](https://github.com/izzytoot/exams42/tree/main/Rank_3) | To be done | C        | 100/100 :white_check_mark: |
+| [Exam Rank 3](https://github.com/izzytoot/exams42/tree/main/exam_rank_4) | To be done | C        | :soon: / :question: |
+| [Exam Rank 3](https://github.com/izzytoot/exams42/tree/main/Rank_3) | Completed | C        | 100/100 :white_check_mark: |
 | [Exam Rank 2](https://github.com/izzytoot/exams42/tree/main/Rank_2) | Completed | C        | 100/100 :white_check_mark: |
-
 </div>
 
 <p>
