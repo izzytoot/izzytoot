@@ -24,7 +24,7 @@ I've been a Communications Officer and Project Manager in NGO environments for 6
 | Project | Status   | Language | Score |
 | ---- | :--: | :--: | :--: |
 | ... | ... | ... | ... | ... |
-| [CPP Module 00](https://github.com/izzytoot/cpp_00) | In Progress... | C++       |  :soon: / :question: |
+| [CPP Modules](https://github.com/izzytoot/cpp) | In Progress... | C++       |  :soon: / :question: |
 | [Netpractice](https://github.com/izzytoot/netpractice) | Completed | IP adress distribution    |  100 / 100 :white_check_mark: |
 | [cub3d](https://github.com/izzytoot/cub3d) | Completed | C       |  105 / 100 :white_check_mark: |
 | [minishell](https://github.com/izzytoot/minishell/) | Completed | C       | 98 / 100 :white_check_mark: |
