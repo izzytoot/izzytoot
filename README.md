@@ -1,6 +1,5 @@
-<h2 align="left">Hi 👋! My name is Isabel and I'm a 42 student at 42 Porto. </h2>
-Currently shifting careers! :scream:<br />
-I've been a Communications Officer and Project Manager in NGO environments for 6 years and am now studying Software Development at 42 Porto.
+<h2 align="left">Hi 👋! My name is Isabel and I'm a software developer. </h2>
+Currently a student at 42 Porto and an intern at Critical Techworks.
 
 ###
 
@@ -13,11 +12,6 @@ I've been a Communications Officer and Project Manager in NGO environments for 6
 <div align="center">
 
 ## My journey at 42 Porto
-
-###
-<p align="middle">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/icunha-t" alt="icunha-t's 42 stats" /></a>
-</p>
 
 ## Projects
 
