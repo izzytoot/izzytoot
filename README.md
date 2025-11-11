@@ -18,7 +18,8 @@ Currently a student at 42 Porto and an intern at Critical Techworks.
 | Project | Status   | Language | Score |
 | ---- | :--: | :--: | :--: |
 | ... | ... | ... | ... | ... |
-| [CPP Modules 05-09](https://github.com/izzytoot/cpp_modules_05-09) | cpp_05/cpp_09 | C++       |  04/05 :white_check_mark: |
+| IRC | Ongoing | C++       | :soon: / :question: |
+| [CPP Modules 05-09](https://github.com/izzytoot/cpp_modules_05-09) | cpp_05/cpp_09 | C++       |  05/05 :white_check_mark: |
 | [CPP Modules 00-04](https://github.com/izzytoot/cpp_modules_00-04) | cpp_00/cpp_04 | C++       |  05/05 :white_check_mark: |
 | [Netpractice](https://github.com/izzytoot/netpractice) | Completed | IP adress distribution    |  100 / 100 :white_check_mark: |
 | [cub3d](https://github.com/izzytoot/cub3d) | Completed | C       |  105 / 100 :white_check_mark: |
@@ -58,4 +59,4 @@ Currently a student at 42 Porto and an intern at Critical Techworks.
 
 <div align="center">
   
-[<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge">](https://www.linkedin.com/in/isabel-tootill/)
+[<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge">](https://www.linkedin.com/in/isabel-tootill/)5
