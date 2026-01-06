@@ -18,7 +18,8 @@ Currently a student at 42 Porto and an intern at Critical Techworks.
 | Project | Status   | Language | Score |
 | ---- | :--: | :--: | :--: |
 | ... | ... | ... | ... | ... |
-| [IRC](https://github.com/teresa-chow/42-ft_irc) | Ongoing | C++       | :soon: / :question: |
+| Inception | Completed | C++       | :soon: / :question: |
+| [IRC](https://github.com/izzytoot/42-ft_irc) | Completed | C++       | 100 / 100 :white_check_mark: |
 | [CPP Modules 05-09](https://github.com/izzytoot/cpp_modules_05-09) | cpp_05/cpp_09 | C++       |  05/05 :white_check_mark: |
 | [CPP Modules 00-04](https://github.com/izzytoot/cpp_modules_00-04) | cpp_00/cpp_04 | C++       |  05/05 :white_check_mark: |
 | [Netpractice](https://github.com/izzytoot/netpractice) | Completed | IP adress distribution    |  100 / 100 :white_check_mark: |
