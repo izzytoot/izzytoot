@@ -12,7 +12,7 @@ Currently a student at 42 Porto and an intern at Critical Techworks.
 | ---- | :--: | :--: | :--: |
 | ... | ... | ... | ... | ... |
 | [Transcendence](https://github.com/larocqueg/ft_transcendence) | To be started | ??     | :soon: / :question: |
-| [Inception](https://github.com/izzytoot/inception) | Ongoing | C++       | :soon: / :question: |
+| [Inception](https://github.com/izzytoot/inception) | Completed | C++       | 100 / 100 :white_check_mark: |
 | [IRC](https://github.com/izzytoot/42-ft_irc) | Completed | C++       | 100 / 100 :white_check_mark: |
 | [CPP Modules 05-09](https://github.com/izzytoot/cpp_modules_05-09) | cpp_05/cpp_09 | C++       |  05/05 :white_check_mark: |
 | [CPP Modules 00-04](https://github.com/izzytoot/cpp_modules_00-04) | cpp_00/cpp_04 | C++       |  05/05 :white_check_mark: |
@@ -30,13 +30,13 @@ Currently a student at 42 Porto and an intern at Critical Techworks.
 | [Piscine](https://github.com/izzytoot/42piscine) | Completed | C & Shell       | :swimmer::white_check_mark: :swimmer: :white_check_mark: |
 
 
-
 ## Exams
 
 | Exam | Status   | Language | Score       |
 | ---- | :--: | :--: | :--: |
 | ... | ... | ... | ... |
-| [Exam Rank 5](https://github.com/izzytoot/exam_rank_5) | To do... | C++ & C    | 100/100 :white_check_mark: |
+| [Exam Rank 6](https://github.com/izzytoot/exam_rank_6) | To do... | C    | :soon: / :question: |
+| [Exam Rank 5](https://github.com/izzytoot/exam_rank_5) | Completed | C++ & C    | 100/100 :white_check_mark: |
 | [Exam Rank 4](https://github.com/izzytoot/exam_rank_4) | Completed | C        | 100/100 :white_check_mark: |
 | [Exam Rank 3](https://github.com/izzytoot/exams42/tree/main/Rank_3) | Completed | C        | 100/100 :white_check_mark: |
 | [Exam Rank 2](https://github.com/izzytoot/exams42/tree/main/Rank_2) | Completed | C        | 100/100 :white_check_mark: |
