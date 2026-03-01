@@ -35,7 +35,7 @@ Currently a student at 42 Porto and an intern at Critical Techworks.
 | Exam | Status   | Language | Score       |
 | ---- | :--: | :--: | :--: |
 | ... | ... | ... | ... |
-| [Exam Rank 6](https://github.com/izzytoot/exam_rank_6) | To do... | C    | :soon: / :question: |
+| [Exam Rank 6](https://github.com/izzytoot/exam_rank_6) | Completed | C    | 100/100 :white_check_mark: |
 | [Exam Rank 5](https://github.com/izzytoot/exam_rank_5) | Completed | C++ & C    | 100/100 :white_check_mark: |
 | [Exam Rank 4](https://github.com/izzytoot/exam_rank_4) | Completed | C        | 100/100 :white_check_mark: |
 | [Exam Rank 3](https://github.com/izzytoot/exams42/tree/main/Rank_3) | Completed | C        | 100/100 :white_check_mark: |
